@@ -9,3 +9,8 @@ type TesteRepositries struct {
 	testinho   string
 	testinhoId int
 }
+
+type TesteRepositres struct {
+	testinho   string
+	testinhoId int
+}
