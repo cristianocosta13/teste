@@ -26,5 +26,8 @@ func (ah *TestHandler) Get() int {
 
 	//todo.FromDomain(result)
 	//resp.WriteAsJson(todo)
+	var a = "aaaaaa"
+	print(a)
 	return 8
+
 }
